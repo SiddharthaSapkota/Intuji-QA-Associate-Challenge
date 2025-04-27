@@ -4,7 +4,6 @@ This project contains Cypress E2E automation tests for:
 
 - User Registration
 - Product Management
-- Cart and Quantity Management
 
 ## How to Run
 
@@ -15,7 +14,6 @@ This project contains Cypress E2E automation tests for:
 ## Notes
 
 - Registration and Product flows are completed and working.
-- Cart and Quantity Management flow is partially complete — adjustments and improvements needed for quantity management directly from Product Detail Page as per latest requirements.
 - Page Object Model (POM) pattern is used for better organization.
 
 ## Folder Structure
